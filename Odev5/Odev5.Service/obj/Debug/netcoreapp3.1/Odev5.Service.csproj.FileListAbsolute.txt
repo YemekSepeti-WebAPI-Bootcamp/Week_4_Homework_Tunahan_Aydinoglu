@@ -1,0 +1,14 @@
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Service\bin\Debug\netcoreapp3.1\Odev5.Service.deps.json
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Service\bin\Debug\netcoreapp3.1\Odev5.Service.dll
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Service\bin\Debug\netcoreapp3.1\Odev5.Service.pdb
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Service\bin\Debug\netcoreapp3.1\Odev5.Core.dll
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Service\bin\Debug\netcoreapp3.1\Odev5.Data.dll
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Service\bin\Debug\netcoreapp3.1\Odev5.Core.pdb
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Service\bin\Debug\netcoreapp3.1\Odev5.Data.pdb
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Service\obj\Debug\netcoreapp3.1\Odev5.Service.csprojAssemblyReference.cache
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Service\obj\Debug\netcoreapp3.1\Odev5.Service.AssemblyInfoInputs.cache
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Service\obj\Debug\netcoreapp3.1\Odev5.Service.AssemblyInfo.cs
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Service\obj\Debug\netcoreapp3.1\Odev5.Service.csproj.CoreCompileInputs.cache
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Service\obj\Debug\netcoreapp3.1\Odev5.Service.csproj.CopyComplete
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Service\obj\Debug\netcoreapp3.1\Odev5.Service.dll
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Service\obj\Debug\netcoreapp3.1\Odev5.Service.pdb

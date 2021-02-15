@@ -1,0 +1,15 @@
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Data\bin\Debug\netcoreapp3.1\Odev5.Data.deps.json
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Data\bin\Debug\netcoreapp3.1\Odev5.Data.runtimeconfig.json
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Data\bin\Debug\netcoreapp3.1\Odev5.Data.runtimeconfig.dev.json
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Data\bin\Debug\netcoreapp3.1\Odev5.Data.dll
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Data\bin\Debug\netcoreapp3.1\Odev5.Data.pdb
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Data\bin\Debug\netcoreapp3.1\Odev5.Core.dll
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Data\bin\Debug\netcoreapp3.1\Odev5.Core.pdb
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Data\obj\Debug\netcoreapp3.1\Odev5.Data.csprojAssemblyReference.cache
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Data\obj\Debug\netcoreapp3.1\Odev5.Data.AssemblyInfoInputs.cache
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Data\obj\Debug\netcoreapp3.1\Odev5.Data.AssemblyInfo.cs
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Data\obj\Debug\netcoreapp3.1\Odev5.Data.csproj.CoreCompileInputs.cache
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Data\obj\Debug\netcoreapp3.1\Odev5.Data.csproj.CopyComplete
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Data\obj\Debug\netcoreapp3.1\Odev5.Data.dll
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Data\obj\Debug\netcoreapp3.1\Odev5.Data.pdb
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev5\Odev5.Data\obj\Debug\netcoreapp3.1\Odev5.Data.genruntimeconfig.cache
