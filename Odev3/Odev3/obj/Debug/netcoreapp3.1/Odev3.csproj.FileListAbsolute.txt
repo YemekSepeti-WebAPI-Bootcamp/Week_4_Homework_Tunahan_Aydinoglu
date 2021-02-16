@@ -1,0 +1,13 @@
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.exe
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.deps.json
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.runtimeconfig.json
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.runtimeconfig.dev.json
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.dll
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.pdb
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.csprojAssemblyReference.cache
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.AssemblyInfoInputs.cache
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.AssemblyInfo.cs
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.csproj.CoreCompileInputs.cache
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.dll
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.pdb
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.genruntimeconfig.cache
