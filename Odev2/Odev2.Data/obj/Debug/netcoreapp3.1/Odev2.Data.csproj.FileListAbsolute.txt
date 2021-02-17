@@ -1,0 +1,9 @@
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev2\Odev2.Data\bin\Debug\netcoreapp3.1\Odev2.Data.deps.json
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev2\Odev2.Data\bin\Debug\netcoreapp3.1\Odev2.Data.dll
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev2\Odev2.Data\bin\Debug\netcoreapp3.1\Odev2.Data.pdb
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev2\Odev2.Data\obj\Debug\netcoreapp3.1\Odev2.Data.csprojAssemblyReference.cache
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev2\Odev2.Data\obj\Debug\netcoreapp3.1\Odev2.Data.AssemblyInfoInputs.cache
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev2\Odev2.Data\obj\Debug\netcoreapp3.1\Odev2.Data.AssemblyInfo.cs
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev2\Odev2.Data\obj\Debug\netcoreapp3.1\Odev2.Data.csproj.CoreCompileInputs.cache
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev2\Odev2.Data\obj\Debug\netcoreapp3.1\Odev2.Data.dll
+C:\Users\clown\Desktop\Projects\YemekSepeti\Week_4_Homework_Tunahan_Aydinoglu\Odev2\Odev2.Data\obj\Debug\netcoreapp3.1\Odev2.Data.pdb

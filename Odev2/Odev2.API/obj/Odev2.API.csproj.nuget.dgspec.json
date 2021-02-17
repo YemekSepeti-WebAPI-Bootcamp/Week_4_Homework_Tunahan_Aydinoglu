@@ -1,0 +1,220 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.API\\Odev2.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.API\\Odev2.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.API\\Odev2.API.csproj",
+        "projectName": "Odev2.API",
+        "projectPath": "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.API\\Odev2.API.csproj",
+        "packagesPath": "C:\\Users\\clown\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\clown\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.Data\\Odev2.Data.csproj": {
+                "projectPath": "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.Data\\Odev2.Data.csproj"
+              },
+              "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.Service\\Odev2.Service.csproj": {
+                "projectPath": "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.Service\\Odev2.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.Data\\Odev2.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.Data\\Odev2.Data.csproj",
+        "projectName": "Odev2.Data",
+        "projectPath": "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.Data\\Odev2.Data.csproj",
+        "packagesPath": "C:\\Users\\clown\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\clown\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.Service\\Odev2.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.Service\\Odev2.Service.csproj",
+        "projectName": "Odev2.Service",
+        "projectPath": "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.Service\\Odev2.Service.csproj",
+        "packagesPath": "C:\\Users\\clown\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\clown\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.Data\\Odev2.Data.csproj": {
+                "projectPath": "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.Data\\Odev2.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "b647103e-2aaf-4ee9-810f-6e079d5c1e32",
+    "Method": "GET",
+    "Host": "localhost:44312",
+    "Path": "/weatherforecast",
+    "CreatedTime": "2021-02-17T22:55:57.1763234+03:00"
+  },
+  {
+    "Id": "b647103e-2aaf-4ee9-810f-6e079d5c1e32",
+    "Method": "GET",
+    "Host": "localhost:44312",
+    "Path": "/weatherforecast",
+    "CreatedTime": "2021-02-17T22:55:59.9546939+03:00"
+  },
+  {"Id":"b647103e-2aaf-4ee9-810f-6e079d5c1e32","Method":"GET","Host":"localhost:44312","Path":"/weatherforecast","CreatedTime":"2021-02-17T22:56:00.6484036+03:00"}]
