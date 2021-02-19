@@ -15,7 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Odev2.Data\Odev2.Data.csproj" />
     <ProjectReference Include="..\Odev2.Service\Odev2.Service.csproj" />
   </ItemGroup>
 

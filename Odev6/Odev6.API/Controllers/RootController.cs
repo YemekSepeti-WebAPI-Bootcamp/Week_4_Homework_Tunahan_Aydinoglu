@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Odev6.API.Attributes;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,6 +9,7 @@ using System.Threading.Tasks;
 namespace Odev6.API.Controllers
 {
     [Route("api/[controller]")]
+    [ServiceFilter(typeof(IpControlAttribute))]
     [ApiController]
     public class RootController : ControllerBase
     {

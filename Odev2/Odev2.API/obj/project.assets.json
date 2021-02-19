@@ -447,18 +447,6 @@
           "build/netcoreapp2.0/Microsoft.EntityFrameworkCore.Design.props": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.InMemory/3.1.10": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "3.1.10"
-        },
-        "compile": {
-          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.InMemory.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.InMemory.dll": {}
-        }
-      },
       "Microsoft.EntityFrameworkCore.Relational/3.1.11": {
         "type": "package",
         "dependencies": {
@@ -2781,26 +2769,12 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "Odev2.Data/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.InMemory": "3.1.10"
-        },
-        "compile": {
-          "bin/placeholder/Odev2.Data.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Odev2.Data.dll": {}
-        }
-      },
       "Odev2.Service/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
-          "Newtonsoft.Json": "12.0.3",
-          "Odev2.Data": "1.0.0"
+          "Newtonsoft.Json": "12.0.3"
         },
         "compile": {
           "bin/placeholder/Odev2.Service.dll": {}
@@ -3349,20 +3323,6 @@
         "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.xml",
         "microsoft.entityframeworkcore.design.3.1.11.nupkg.sha512",
         "microsoft.entityframeworkcore.design.nuspec"
-      ]
-    },
-    "Microsoft.EntityFrameworkCore.InMemory/3.1.10": {
-      "sha512": "7GXxSehLWbxuZRoQT3PKd6r/+A9HXzNPbtPU9EFUFx8I5JrXHB2gbKsP/6NXXj5wX1LWGBctv1Y29l3V0YvLTA==",
-      "type": "package",
-      "path": "microsoft.entityframeworkcore.inmemory/3.1.10",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "lib/netstandard2.0/Microsoft.EntityFrameworkCore.InMemory.dll",
-        "lib/netstandard2.0/Microsoft.EntityFrameworkCore.InMemory.xml",
-        "microsoft.entityframeworkcore.inmemory.3.1.10.nupkg.sha512",
-        "microsoft.entityframeworkcore.inmemory.nuspec"
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational/3.1.11": {
@@ -8917,11 +8877,6 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "Odev2.Data/1.0.0": {
-      "type": "project",
-      "path": "../Odev2.Data/Odev2.Data.csproj",
-      "msbuildProject": "../Odev2.Data/Odev2.Data.csproj"
-    },
     "Odev2.Service/1.0.0": {
       "type": "project",
       "path": "../Odev2.Service/Odev2.Service.csproj",
@@ -8934,7 +8889,6 @@
       "Microsoft.EntityFrameworkCore.Sqlite >= 3.1.11",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.11",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.5",
-      "Odev2.Data >= 1.0.0",
       "Odev2.Service >= 1.0.0"
     ]
   },
@@ -8965,9 +8919,6 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.Data\\Odev2.Data.csproj": {
-              "projectPath": "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.Data\\Odev2.Data.csproj"
-            },
             "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.Service\\Odev2.Service.csproj": {
               "projectPath": "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.Service\\Odev2.Service.csproj"
             }

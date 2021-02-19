@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5UFtOo2E7E0jbmSf0/pA3+DSsCD/BD4QNjgNdTgbobeIKwoLAhSKtmgCUXAdFlysiTC/7uDNJCB/LqIyXuENOQ==",
+  "dgSpecHash": "fSPNBQnxYc7TqOnq3ZpMRphmA48sBs6hu+j6KIzsenShOs9gOdO2EntLSmOQwbnUtIu5A49Klk3ovQlJxv/cBw==",
   "success": true,
   "projectFilePath": "C:\\Users\\clown\\Desktop\\Projects\\YemekSepeti\\Week_4_Homework_Tunahan_Aydinoglu\\Odev2\\Odev2.API\\Odev2.API.csproj",
   "expectedPackageFiles": [
@@ -26,7 +26,6 @@
     "C:\\Users\\clown\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.11\\microsoft.entityframeworkcore.abstractions.3.1.11.nupkg.sha512",
     "C:\\Users\\clown\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.11\\microsoft.entityframeworkcore.analyzers.3.1.11.nupkg.sha512",
     "C:\\Users\\clown\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.11\\microsoft.entityframeworkcore.design.3.1.11.nupkg.sha512",
-    "C:\\Users\\clown\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\3.1.10\\microsoft.entityframeworkcore.inmemory.3.1.10.nupkg.sha512",
     "C:\\Users\\clown\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.11\\microsoft.entityframeworkcore.relational.3.1.11.nupkg.sha512",
     "C:\\Users\\clown\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\3.1.11\\microsoft.entityframeworkcore.sqlite.3.1.11.nupkg.sha512",
     "C:\\Users\\clown\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\3.1.11\\microsoft.entityframeworkcore.sqlite.core.3.1.11.nupkg.sha512",

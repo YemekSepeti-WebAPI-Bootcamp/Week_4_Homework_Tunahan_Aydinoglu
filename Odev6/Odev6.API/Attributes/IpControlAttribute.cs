@@ -27,7 +27,7 @@ namespace Odev6.API.Attributes
 
             var whiteListItem = _whiteLists.FirstOrDefault(wh => IPAddress.Parse(wh.Ip).Equals(remoteIp));
 
-            string checkAllow = whiteListItem.Allows.FirstOrDefault(allow => allow.Equals(apiPath));
+            string checkAllow = whiteListItem.Allows.FirstOrDefault(allow => allow.ToLower().Equals(apiPath.ToLower()));
 
             if (string.IsNullOrEmpty(checkAllow))
             {
