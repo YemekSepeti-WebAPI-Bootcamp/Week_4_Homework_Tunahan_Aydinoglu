@@ -25,6 +25,10 @@ namespace Odev8.API.Controllers
                 rooms = new
                 {
                     href = Url.Link(nameof(RoomsController.GetRooms), null)
+                },
+                auth = new
+                {
+                    href = Url.Link(nameof(AuthController.Authenticate), null)
                 }
             };
 

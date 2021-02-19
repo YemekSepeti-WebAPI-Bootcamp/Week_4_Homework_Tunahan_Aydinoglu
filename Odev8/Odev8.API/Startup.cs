@@ -98,9 +98,10 @@ namespace Odev8.API
                 app.UseOpenApi();
             }
 
-            app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
